@@ -1,0 +1,6 @@
+{
+     "name": "Octo Organization CI",
+     "description": "This workflow is used to build and test the Octo Organization project.",
+     "icon": "gear",
+     "categories": ["Build", "Test"]
+}
